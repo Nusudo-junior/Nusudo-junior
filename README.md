@@ -1,6 +1,3 @@
-西田孔太
-08D20105
-
 - 👋 Hi, I’m @Nusudo-junior
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
